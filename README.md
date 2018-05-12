@@ -10,4 +10,9 @@ WebHost Builder is an object that knows how to setup our Web Server Envionment. 
    - Environment variables
    - Command Line arguments
 
+# Adding/Registering Custom Services in Startup 
+In the ConfigureServices method, we can register all custom services that can be used in Dependancy Injection
+1. services.AddSingelton() : Needs only one instance of a service for entire application.
+2. services.AddTransient() : Create always new instance of custome service.
+3. services.AddScoped() : Create scoped instance for each Http Request
 
