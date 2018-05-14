@@ -16,3 +16,5 @@ In the ConfigureServices method, we can register all custom services that can be
 2. services.AddTransient() : Create always new instance of custome service.
 3. services.AddScoped() : Create scoped instance for each Http Request
 
+# IHostingEnvironment
+With IHostingEnvironment Service, injected to Configure Method can help to find the various pieces of information about the current envionment by IsDevelopement(), IsStaging() or IsProductionEnviornment() methods. These Environment can be set with "ASPNETCORE_ENVIRONMENT": "Development" inside launchSettings.json file.
