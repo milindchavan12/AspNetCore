@@ -1,8 +1,11 @@
-﻿<Properties StartupConfiguration="{3F71FD1B-8B41-423F-9C23-4FD65AD90E63}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetException/Properties/launchSettings.json">
+﻿<Properties StartupConfiguration="{3B60BCC5-178C-46AD-9978-65F40E4AD446}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.AspNetMvc PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetMvc/Controllers/HomeController.cs">
     <Files>
-      <File FileName="AspNetException/Startup.cs" Line="35" Column="2" />
-      <File FileName="AspNetException/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="AspNetException/Startup.cs" Line="28" Column="1" />
+      <File FileName="AspNetException/Properties/launchSettings.json" Line="15" Column="48" />
+      <File FileName="AspNetMvc/Startup.cs" Line="41" Column="30" />
+      <File FileName="AspNetMvc/Controllers/HomeController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ClassPad">
