@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{3B60BCC5-178C-46AD-9978-65F40E4AD446}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.AspNetMvc PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetMvc/Controllers/HomeController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetMvc/Startup.cs">
     <Files>
       <File FileName="AspNetException/Startup.cs" Line="28" Column="1" />
       <File FileName="AspNetException/Properties/launchSettings.json" Line="15" Column="48" />
