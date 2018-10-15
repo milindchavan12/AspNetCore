@@ -8,4 +8,4 @@
 /Users/Milind/Documents/Sources/VS/AspNetCore/AspNetEmpty/obj/Debug/netcoreapp2.0/AspNetEmpty.AssemblyInfo.cs
 /Users/Milind/Documents/Sources/VS/AspNetCore/AspNetEmpty/obj/Debug/netcoreapp2.0/AspNetEmpty.dll
 /Users/Milind/Documents/Sources/VS/AspNetCore/AspNetEmpty/obj/Debug/netcoreapp2.0/AspNetEmpty.pdb
-/Users/Milind/Documents/Sources/VS/AspNetCore/AspNetEmpty/obj/Debug/netcoreapp2.0/AspNetEmpty.csprojResolveAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/AspNetEmpty/obj/Debug/netcoreapp2.0/AspNetEmpty.csprojAssemblyReference.cache

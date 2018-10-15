@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetException", "AspNetEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvc", "AspNetMvc\AspNetMvc.csproj", "{3B60BCC5-178C-46AD-9978-65F40E4AD446}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityInfo.Api", "CityInfo.Api\CityInfo.Api.csproj", "{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{3B60BCC5-178C-46AD-9978-65F40E4AD446}.Release|x64.Build.0 = Release|Any CPU
 		{3B60BCC5-178C-46AD-9978-65F40E4AD446}.Release|x86.ActiveCfg = Release|Any CPU
 		{3B60BCC5-178C-46AD-9978-65F40E4AD446}.Release|x86.Build.0 = Release|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Debug|x64.Build.0 = Debug|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Debug|x86.Build.0 = Debug|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Release|x64.ActiveCfg = Release|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Release|x64.Build.0 = Release|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Release|x86.ActiveCfg = Release|Any CPU
+		{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

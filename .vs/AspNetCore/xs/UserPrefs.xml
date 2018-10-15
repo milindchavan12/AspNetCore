@@ -1,19 +1,10 @@
-﻿<Properties StartupConfiguration="{3B60BCC5-178C-46AD-9978-65F40E4AD446}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.CityInfo.Api PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.AspNetMvc PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetMvc/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetCore Status">
     <Files>
-      <File FileName="AspNetException/Startup.cs" Line="28" Column="1" />
-      <File FileName="AspNetException/Properties/launchSettings.json" Line="15" Column="48" />
-      <File FileName="AspNetMvc/Startup.cs" Line="41" Column="30" />
-      <File FileName="AspNetMvc/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="AspNetCore Status" />
     </Files>
-    <Pads>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="AspNetCore" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.AspNetEmpty PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
