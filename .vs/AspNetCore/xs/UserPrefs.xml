@@ -1,8 +1,13 @@
 ﻿<Properties StartupConfiguration="{EAC4DA0B-22C6-4A05-BEEF-6EA11773DA75}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.CityInfo.Api PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CityInfo.Api PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.AspNetMvc PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AspNetCore Status">
     <Files>
+      <File FileName="CityInfo.Api/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="CityInfo.Api/Program.cs" Line="28" Column="1" />
+      <File FileName="CityInfo.Api/Startup.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.Api/Controllers/CitiesController.cs" Line="8" Column="21" />
+      <File FileName="CityInfo.Api/Controllers/ValuesController.cs" Line="1" Column="1" />
       <File FileName="AspNetCore Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
