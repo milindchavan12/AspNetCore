@@ -1,0 +1,9 @@
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/bin/Debug/netstandard2.0/ToDo.Domains.deps.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/bin/Debug/netstandard2.0/ToDo.Domains.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/bin/Debug/netstandard2.0/ToDo.Domains.pdb
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/obj/Debug/netstandard2.0/ToDo.Domains.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/obj/Debug/netstandard2.0/ToDo.Domains.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/obj/Debug/netstandard2.0/ToDo.Domains.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/obj/Debug/netstandard2.0/ToDo.Domains.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/obj/Debug/netstandard2.0/ToDo.Domains.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ToDo.Domains/obj/Debug/netstandard2.0/ToDo.Domains.pdb

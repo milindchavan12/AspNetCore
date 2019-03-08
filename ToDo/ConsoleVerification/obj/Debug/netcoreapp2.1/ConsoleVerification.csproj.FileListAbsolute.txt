@@ -1,0 +1,11 @@
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/bin/Debug/netcoreapp2.1/ConsoleVerification.deps.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/bin/Debug/netcoreapp2.1/ConsoleVerification.runtimeconfig.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/bin/Debug/netcoreapp2.1/ConsoleVerification.runtimeconfig.dev.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/bin/Debug/netcoreapp2.1/ConsoleVerification.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/bin/Debug/netcoreapp2.1/ConsoleVerification.pdb
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/obj/Debug/netcoreapp2.1/ConsoleVerification.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/obj/Debug/netcoreapp2.1/ConsoleVerification.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/obj/Debug/netcoreapp2.1/ConsoleVerification.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/obj/Debug/netcoreapp2.1/ConsoleVerification.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/obj/Debug/netcoreapp2.1/ConsoleVerification.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/ToDo/ConsoleVerification/obj/Debug/netcoreapp2.1/ConsoleVerification.pdb

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace CityInfo.Api.Controllers
 {
@@ -12,13 +13,21 @@ namespace CityInfo.Api.Controllers
         }
 
         [HttpGet()]
-        public JsonResult GetCities()
+        public IActionResult GetCities()
         {
-            return new JsonResult(new List<object>()
+            return Ok(CitiesDataStore.Current.Cities);
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetCity(int id)
+        {
+            var city = CitiesDataStore.Current.Cities.FirstOrDefault(cityInfo => cityInfo.Id.Equals(id));
+            if(city == null)
             {
-                new {id = 1, Name = "NewYork"},
-                new {id = 2, Name = "Mumbai"}
-            });
+                return NotFound();
+            }
+
+            return Ok(city);
         }
     }
 }

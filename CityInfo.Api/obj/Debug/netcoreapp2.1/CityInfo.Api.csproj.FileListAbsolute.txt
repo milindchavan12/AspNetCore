@@ -1,0 +1,14 @@
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/bin/Debug/netcoreapp2.1/CityInfo.Api.deps.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/bin/Debug/netcoreapp2.1/CityInfo.Api.runtimeconfig.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/bin/Debug/netcoreapp2.1/CityInfo.Api.runtimeconfig.dev.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/bin/Debug/netcoreapp2.1/CityInfo.Api.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/bin/Debug/netcoreapp2.1/CityInfo.Api.pdb
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.RazorAssemblyInfo.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.RazorAssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.RazorTargetAssemblyInfo.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/CityInfo.Api/obj/Debug/netcoreapp2.1/CityInfo.Api.pdb
