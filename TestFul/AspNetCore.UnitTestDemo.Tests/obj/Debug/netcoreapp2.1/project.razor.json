@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/AspNetCore.UnitTestDemo.Tests.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.deps.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.runtimeconfig.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.runtimeconfig.dev.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.pdb
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.RazorAssemblyInfo.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.RazorAssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.RazorTargetAssemblyInfo.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Api/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.pdb

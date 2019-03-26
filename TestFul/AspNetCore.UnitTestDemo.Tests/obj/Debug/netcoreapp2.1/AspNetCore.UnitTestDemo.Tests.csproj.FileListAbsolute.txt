@@ -1,0 +1,17 @@
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.csprojAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.deps.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.runtimeconfig.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.runtimeconfig.dev.json
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.pdb
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/bin/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Api.pdb
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.csproj.CopyComplete
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.dll
+/Users/Milind/Documents/Sources/VS/AspNetCore/TestFul/AspNetCore.UnitTestDemo.Tests/obj/Debug/netcoreapp2.1/AspNetCore.UnitTestDemo.Tests.pdb
