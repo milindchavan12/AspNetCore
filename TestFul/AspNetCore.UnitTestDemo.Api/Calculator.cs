@@ -21,6 +21,10 @@ namespace AspNetCore.UnitTestDemo.Api
 
         public int Divide(int value1, int value2)
         {
+            if(value2 == 0)
+            {
+                throw new InvalidOperationException("Argument can not be zero");
+            }
             return value1 / value2;
         }
     }

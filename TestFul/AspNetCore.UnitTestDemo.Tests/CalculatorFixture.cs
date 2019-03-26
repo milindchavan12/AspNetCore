@@ -1,3 +1,4 @@
+using System;
 using AspNetCore.UnitTestDemo.Api;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -84,6 +85,18 @@ namespace AspNetCore.UnitTestDemo.Tests
 
             //assert
             Assert.AreEqual(expected, actual, "Wrong Result");
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(InvalidOperationException))]
+        public void DivideByZero_ThrowsException()
+        {
+            //arrange
+            int value1 = 5;
+            int value2 = 0;
+
+            //act
+            int actual = SystemUnderTest.Divide(value1, value2);
         }
     }
 }
