@@ -6,6 +6,26 @@ namespace AspNetCore.UnitTestDemo.Tests
     [TestClass]
     public class CalculatorFixture
     {
+        [TestInitialize]
+        public void OnTestInitialize()
+        {
+            _SystemUnderTest = null;
+        }
+
+        private Calculator _SystemUnderTest;
+        public Calculator SystemUnderTest
+        {
+            get 
+            { 
+                if(_SystemUnderTest == null)
+                {
+                    _SystemUnderTest = new Calculator();
+                }
+                return _SystemUnderTest;
+            }
+        }
+        
+
         [TestMethod]
         public void Add()
         {
@@ -15,8 +35,52 @@ namespace AspNetCore.UnitTestDemo.Tests
             int expected = 5;
 
             //act
-            var sut = new Calculator();
-            int actual = sut.Add(value1, value2);
+            int actual = SystemUnderTest.Add(value1, value2);
+
+            //assert
+            Assert.AreEqual(expected, actual, "Wrong Result");
+        }
+
+        [TestMethod]
+        public void Subtract()
+        {
+            //arrange
+            int value1 = 5;
+            int value2 = 2;
+            int expected = 3;
+
+            //act
+            int actual = SystemUnderTest.Subtract(value1, value2);
+
+            //assert
+            Assert.AreEqual(expected, actual, "Wrong Result");
+        }
+
+        [TestMethod]
+        public void Multipy()
+        {
+            //arrange
+            int value1 = 5;
+            int value2 = 2;
+            int expected = 10;
+
+            //act
+            int actual = SystemUnderTest.Multipy(value1, value2);
+
+            //assert
+            Assert.AreEqual(expected, actual, "Wrong Result");
+        }
+
+        [TestMethod]
+        public void Divide()
+        {
+            //arrange
+            int value1 = 10;
+            int value2 = 2;
+            int expected = 5;
+
+            //act
+            int actual = SystemUnderTest.Divide(value1, value2);
 
             //assert
             Assert.AreEqual(expected, actual, "Wrong Result");
