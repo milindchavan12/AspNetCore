@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using AspNetCore.UnitTestDemo.Api;
 
 namespace AspNetCore.UnitTestDemo.WebUi
 {
@@ -31,7 +32,7 @@ namespace AspNetCore.UnitTestDemo.WebUi
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+            services.AddTransient<ICalculatorService, Calculator>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
