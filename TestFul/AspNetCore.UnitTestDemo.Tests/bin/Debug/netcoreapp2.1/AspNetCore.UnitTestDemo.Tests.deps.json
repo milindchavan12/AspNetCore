@@ -1531,6 +1531,9 @@
         }
       },
       "AspNetCore.UnitTestDemo.WebUi/1.0.0": {
+        "dependencies": {
+          "AspNetCore.UnitTestDemo.Api": "1.0.0"
+        },
         "runtime": {
           "AspNetCore.UnitTestDemo.WebUi.dll": {}
         }

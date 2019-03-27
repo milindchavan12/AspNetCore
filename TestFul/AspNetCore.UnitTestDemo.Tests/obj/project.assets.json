@@ -2236,6 +2236,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "AspNetCore.UnitTestDemo.Api": "1.0.0",
           "Microsoft.NETCore.App": "2.1.0"
         },
         "compile": {

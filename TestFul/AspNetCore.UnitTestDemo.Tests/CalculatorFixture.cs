@@ -31,12 +31,12 @@ namespace AspNetCore.UnitTestDemo.Tests
         public void Add()
         {
             //arrange
-            int value1 = 3;
-            int value2 = 2;
-            int expected = 5;
+            double value1 = 3;
+            double value2 = 2;
+            double expected = 5;
 
             //act
-            int actual = SystemUnderTest.Add(value1, value2);
+            double actual = SystemUnderTest.Add(value1, value2);
 
             //assert
             Assert.AreEqual(expected, actual, "Wrong Result");
@@ -46,12 +46,12 @@ namespace AspNetCore.UnitTestDemo.Tests
         public void Subtract()
         {
             //arrange
-            int value1 = 5;
-            int value2 = 2;
-            int expected = 3;
+            double value1 = 5;
+            double value2 = 2;
+            double expected = 3;
 
             //act
-            int actual = SystemUnderTest.Subtract(value1, value2);
+            double actual = SystemUnderTest.Subtract(value1, value2);
 
             //assert
             Assert.AreEqual(expected, actual, "Wrong Result");
@@ -61,12 +61,12 @@ namespace AspNetCore.UnitTestDemo.Tests
         public void Multipy()
         {
             //arrange
-            int value1 = 5;
-            int value2 = 2;
-            int expected = 10;
+            double value1 = 5;
+            double value2 = 2;
+            double expected = 10;
 
             //act
-            int actual = SystemUnderTest.Multipy(value1, value2);
+            double actual = SystemUnderTest.Multiply(value1, value2);
 
             //assert
             Assert.AreEqual(expected, actual, "Wrong Result");
@@ -76,12 +76,12 @@ namespace AspNetCore.UnitTestDemo.Tests
         public void Divide()
         {
             //arrange
-            int value1 = 10;
-            int value2 = 2;
-            int expected = 5;
+            double value1 = 10;
+            double value2 = 2;
+            double expected = 5;
 
             //act
-            int actual = SystemUnderTest.Divide(value1, value2);
+            double actual = SystemUnderTest.Divide(value1, value2);
 
             //assert
             Assert.AreEqual(expected, actual, "Wrong Result");
@@ -92,11 +92,11 @@ namespace AspNetCore.UnitTestDemo.Tests
         public void DivideByZero_ThrowsException()
         {
             //arrange
-            int value1 = 5;
-            int value2 = 0;
+            double value1 = 5;
+            double value2 = 0;
 
             //act
-            int actual = SystemUnderTest.Divide(value1, value2);
+            double actual = SystemUnderTest.Divide(value1, value2);
         }
     }
 }
