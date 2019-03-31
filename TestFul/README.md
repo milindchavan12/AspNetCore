@@ -9,3 +9,4 @@ Code Coverage tells us how good are our tests.
 
 ### Repository Pattern:
 Repository Pattern is the encapsulation of persistence logic.
+
