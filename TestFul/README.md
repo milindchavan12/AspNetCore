@@ -6,3 +6,6 @@ When we choose to Design our application with Testability in mind, we think abou
 
 ### Code Coverage:
 Code Coverage tells us how good are our tests. 
+
+### Repository Pattern:
+Repository Pattern is the encapsulation of persistence logic.
