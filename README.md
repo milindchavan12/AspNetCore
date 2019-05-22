@@ -1,4 +1,7 @@
-# WebHost with CreateDefaultBuilder
+# ASP.Net Core
+So what exactly is ASP. NET Core? It's a complete rewrite of the platform. It is meant to be **cross-platform** and open source. It has combined the platforms of MVC and WebAPI into a single code base. 
+
+### WebHost with CreateDefaultBuilder
 
 WebHost Builder is an object that knows how to setup our Web Server Envionment. Default Web Host builder sets our environment in specific way.
 1. Will use Kestrel web server. [Cross-Platform Server]
