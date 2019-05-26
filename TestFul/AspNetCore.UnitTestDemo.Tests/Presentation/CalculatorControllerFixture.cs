@@ -8,7 +8,7 @@ using AspNetCore.UnitTestDemo.WebUi.Controllers;
 using AspNetCore.UnitTestDemo.WebUi.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Benday.WebCalculator.Tests.Presentation
+namespace AspNetCore.UnitTestDemo.Tests.Presentation
 {
     [TestClass]
     public class CalculatorControllerFixture
